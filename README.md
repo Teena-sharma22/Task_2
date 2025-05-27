@@ -79,11 +79,11 @@ These charts were created to explore and present business insights:
 
 ## FILES
 
-> [RAW DATA](sales%20data.csv)
+[RAW DATA](sales_data.csv)
 
-> [CLEANING PYTHON FILE](data_clean.py)
+[CLEANING PYTHON FILE](data_clean.py)
 
-> [CLEAN DATA](cleaned_sales_data.csv)
+[CLEAN DATA](cleaned_sales_data.csv)
 
-> [VISUAL REPORT/DASHBOARD](DATA%20ANALYSIS%20DASHBOARD.pdf)
+[VISUAL REPORT/DASHBOARD](DATA%20ANALYSIS%20DASHBOARD.pdf)
 
