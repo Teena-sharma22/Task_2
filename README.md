@@ -73,15 +73,17 @@ These charts were created to explore and present business insights:
 ---
 
 ## 📸 Dashboard Preview
-
-> *(Add a screenshot if available)*  
+ 
 > ![Dashboard Screenshot](DATA%20ANALYSIS%20DASHBOARD.pdf)
 ..
 
 ## FILES
 
 > [RAW DATA](sales%20data.csv)
+
 > [CLEANING PYTHON FILE](data_clean.py)
+
 > [CLEAN DATA](cleaned_sales_data.csv)
+
 > [VISUAL REPORT/DASHBOARD](DATA%20ANALYSIS%20DASHBOARD.pdf)
 
